@@ -1,0 +1,576 @@
+Model Terms for Marketing (MTM)
+
+Version: 2
+
+1. DEFINITIONS
+
+"Binding Principles" means the principles set out in clause 4.
+
+"Breach Notification" means a notice given in accordance with clause 8.2 that a
+Contracting Party has breached these Model Terms.
+
+"Contracting Parties" means the Parties to a Main Agreement and "Contracting
+Party" shall be construed accordingly.
+
+"Covered Data" means all Match Keys and associated Preferences and Metadata.
+
+"Covered Data Network" means the Operator and each Receiver.
+
+"Data Protection Laws" means any legislation or other laws in any jurisdiction
+applicable to a Contracting Party that relate to the protection of personal data
+or privacy of natural persons including the use of local storage mechanisms such
+as cookies, or similar technologies.
+
+"Device" means any web-enabled device or application accessing the Covered Data
+Network.
+
+"Main Agreement" means an agreement incorporating these Model Terms, alone or
+with other terms.
+
+"Match Key" means the alphanumeric string stored by the Operator.
+
+"Metadata" means the creator domain, timestamp, and cryptographic signature
+stored with the Covered Data defined by the then-current encoding scheme version
+("Data Schema").
+
+"Model Terms" means these terms and conditions.
+
+"Non-Covered Data" means any data other than the Covered Data, which a Party may
+collect or generate.
+
+"Operator" means the Party responsible for ensuring that a User communicates
+with a User Interface and with laws relating to the storage or access of any
+data on a Device.
+
+"Party" means any party bound to an agreement containing these Model Terms and
+"Parties" shall be construed accordingly.
+
+"Personal Data" means any information relating to an identified or identifiable
+natural person, which, where certain Data Protection Laws apply, will include
+online identifiers stored in cookies when the receiving Party does not have the
+means reasonably likely to be used to identify an individual (including as a
+result of the implementation of appropriate organizational and technical
+measures to prohibit reidentification).
+
+"Personalized Marketing" has the meaning given to it in Appendix 1.
+
+"Preferences" means a User-initiated signal expressed using a User Interface,
+for the options notified to the User in that interface, including in relation to
+specific content, which generates a portion of Covered Data.
+
+"Receiver" means the Contracting Party receiving the Covered Data from the
+Sender.
+
+"Restricted Data" means any data concerning a specific individual's: (i) racial
+or ethnic origin, political opinions, religious or philosophical beliefs, or any
+genetic data, biometric data; (ii) health, sex life or sexual orientation; (iii)
+actual or alleged criminal convictions, offences, activities or their criminal
+history; or (iv) data defined as sensitive or special category data under Data
+Protection Laws or for which those laws require specific and explicit consent
+from a User.
+
+"Restricted Profiling" means the collection of Restricted Data concerning a
+User's online activity over time for the purpose of using Restricted Data to
+predict User preferences or interests to deliver content to their Device.
+
+"Security Measures" shall have the meaning given to it in clause 7.3.
+
+"Sender" means the Contracting Party (including, where applicable, the Party
+that creates the Match Key) sending the Covered Data to the Receiver.
+
+"Standard Marketing" has the meaning given to it in Appendix 1.
+
+"Supervisory Authority" means any supervisory authority or regulator responsible
+for enforcing compliance with Data Protection Laws from time to time.
+
+"Transparency & Consent Framework" or "TCF" means the industry framework
+developed and maintained by the Interactive Advertising Bureau, as amended from
+time to time.
+
+"Transaction" means the sending of unmodified Covered Data from the Sender to
+the Receiver.
+
+"User" means a natural person using a Device.
+
+"User Interface" means the interface used by a User to signal Preferences to the
+Covered Data Network being either an interface that operates as defined in these
+Model Terms, using the language for Standard Marketing and Personalized
+Marketing options specified in clause 5.7 ("Prescribed UI") or a valid
+TCF-compliant user interface, whose signals are mapped to Standard Marketing and
+Personalized Marketing in accordance with Appendix 1 ("TCF-Compliant UI").
+
+"User Interface Provider" means a service provider that provides the User
+Interface that presents and transmits User preferences.
+
+2. COMMENCEMENT AND TERM
+
+2.1     These Model Terms shall come into force on the effective date specified
+        in the applicable Main Agreement or, if no such date is specified, on
+        the date of last signature (including electronic signature) by both
+        Contracting Parties of that Main Agreement.
+
+2.2     These Model Terms shall continue in force for as long as Covered Data is
+        used by the Receiver, subject to clause 8.
+
+3. USING THESE MODEL TERMS
+
+        Each Contracting Party may be a Sender or Receiver and accordingly may
+        send or receive Covered Data to and from the other Contracting Party
+        subject to these Model Terms provided that both Contracting Parties
+        remain in compliance with these Model Terms.
+
+4. THE BINDING PRINCIPLES
+
+4.1     The effective operation and use of the Covered Data network involve many
+        bilateral contractual relationships between Senders and Receivers, each
+        subject to these Model Terms, but each Party acknowledges that it shares
+        a collective responsibility to uphold the spirit and reputation of the
+        Covered Data ecosystem as a whole.
+
+4.2     Each Party acknowledges and agrees to respect the fundamental rights of
+        Users to express or change their Preferences and shall do nothing to
+        undermine or diminish those rights.
+
+4.3     Each Party acknowledges and agrees not to attempt to undermine or
+        diminish any User's exercise of their rights under Data Protection Laws.
+
+4.4     Each Party acknowledges and agrees that it may only use Covered Data for
+        the following purposes, subject always to the Preferences:
+
+    i.    to plan and deliver content (whether targeted or otherwise) to a
+          Device;
+
+    ii.   to measure the reach and responsiveness of the content it delivers;
+
+    iii.  to optimize the content it delivers;
+
+    iv.   to prevent or detect security incidents or fraudulent or illegal
+          activity or to assist prosecute or apprehend those responsible for any
+          of those incidents or activities;
+
+    v.    to develop or improve the performance of a new or existing product,
+          service, or feature; or
+
+    vi.   to defend, bring or establish legal claims or to comply with
+          applicable law, and to apply copyright content protection.
+
+4.5     Each Party shall act in good faith and reasonably at all times in
+        respect of any activities it undertakes to adhere to the Binding
+        Principles.
+
+5. OBLIGATIONS OF THE PARTIES
+
+    Initiating Transactions between Contracting Parties
+
+5.1     The sharing of Covered Data, whether on its own or in combination with
+        Non-Covered Data, shall only occur between the Contracting Parties
+        through Transactions.
+
+5.2     Prior to initiating a Transaction, the Sender shall implement
+        appropriate technical and organizational measures designed to ensure
+        that the organization receiving the Covered Data is the other
+        Contracting Party.
+
+    Sending and Receiving Covered Data
+
+5.3     On receipt of the Covered Data, the Receiver shall not use any Covered
+        Data for Standard Marketing or Personalized Marketing, where the data
+        relating to Preferences as required under clause 5.7 contains a null
+        value.
+
+    User Interface Providers
+
+5.4     No Contracting Party other than an Operator (using a User Interface
+        Provider, acting on behalf of an Operator) shall be permitted to link
+        Covered Data to a User.
+
+5.5     Each Operator shall ensure that any User Interface Provider it uses
+        shall:
+
+    i.    ensure that the functionality allowing Users to provide Preferences to
+          the Covered Data Network is operating properly at all times; and
+
+    ii.   include a clear and prominent notice for Users in the User Interface
+          explaining that its functionality relates to the Covered Data Network
+          and, where applicable, that it may include other consent management or
+          preference functionality unrelated to the Operator, such as a
+          Transparency and Consent Framework (TCF)-compliant consent management
+          platform, which has obtained sufficient signals to qualify for use for
+          other purposes.
+
+5.6     Each Contracting Party shall ensure that any Party that uses the User
+        Interface includes a link or other visible mechanism that permits access
+        and use of the User Interface on every webpage accessible to Users.
+
+5.7     The Operator shall ensure that, at all times, the User Interface it
+        uses:
+
+    i.    includes one or both of the Personalized Marketing or Standard
+          Marketing options (including opt-in mechanism and definition text) and
+          ensures that any preference option defaults to no/opted-out and
+          permits Users to easily and immediately access and read the text
+          marked with asterisks below, where 'easily' means the text is legible
+          and located near the option for Personalized Marketing and Standard
+          Marketing:
+
+        * Selecting "personalized marketing" means you choose to receive
+        targeted marketing and other content related to your browsing history or
+        interactions and to the use of the cookies described in our Privacy
+        Policy [insert link to Privacy Policy] to make this happen.
+
+        ** Selecting "standard marketing" means you prefer to receive targeted
+        marketing and other content unrelated to your browsing history or
+        interactions, such as content based on time, geographic region and
+        current context, and to the use of the cookies described in our Privacy
+        Policy [insert link to Privacy Policy] to make this happen.
+
+    ii.   can be configured to provide Users with a link to retrieve the User
+          Interface to view, edit and update their Preferences;
+
+    iii.  must display a transient notice that must appear for no less than
+          three seconds, for any User that has chosen to store Preferences, but
+          not interacted with the User Interface of the current digital
+          property; and
+
+    iv.   when using the text required under the TCF, uses the unaltered
+          definitions of the required purposes defined within the TCF that
+          relate to concepts equivalent to 'Standard Marketing' or 'Personalized
+          Marketing'.
+
+5.8     When using the User-facing text specified in clause 5.7, the Operator
+        shall ensure that no Party, including the User Interface Provider, may
+        alter, amend or delete any text or functionality specified in that
+        clause, except that the Operator shall be permitted to create accurate
+        language translations of any such text where appropriate and to provide
+        additional consent management and preference functionality in respect of
+        activities not required under that clause (by way of example only, age
+        verification), subject always to the restrictions in clause 6. The
+        addition of text to clarify the meaning of any text or functionality
+        specified in clause 5.7 is permitted.
+
+5.9     The Contracting Parties acknowledge that when a User accesses the User
+        Interface to update Preferences, the User Interface Provider will share
+        the updated Preferences with the Operator.
+
+5.10    The Contracting Parties further acknowledge that each User Interface
+        Provider will have access to Preferences and, consequently, it warrants
+        that it has implemented and maintains specific technical and
+        organizational measures to safeguard any and all Preferences in the
+        possession of the User Interface Provider.
+
+5.11    When an Operator relies on a User Interface Provider using a
+        TCF-Compliant UI with usage purposes described in the TCF ("TCF
+        Purposes"), the Operator shall ensure that the TCF Purposes are mapped
+        to Standard Marketing and Personalized Marketing in accordance with the
+        table set out in Appendix 1.
+
+    Operator
+
+5.12    If a Contracting Party is an Operator, it shall:
+
+    i.    store each Match Key and link to it Preferences in conformance with
+          the specification of the Data Schema;
+
+    ii.   only send Covered Data to the Receiver or another Operator; and
+
+    iii.  comply with Data Protection Laws and any anti-trust or competition
+          laws in any jurisdiction applicable to the Operator.
+
+6. RESTRICTED USES
+
+6.1     Modification of Covered Data
+
+        The Contracting Parties shall not modify the Covered Data and shall not
+        store any constituent part of the Covered Data separately.
+
+6.2     Restricted Data and Restricted Profiling
+
+        No Contracting Party shall directly or indirectly use any Restricted
+        Data in connection with the Covered Data including for any Restricted
+        Profiling.
+
+6.3     Reidentification
+
+        Neither Contracting Party shall (or attempt to) identify a User from
+        Covered Data.
+
+7. DATA PROTECTION
+
+7.1     Each Contracting Party warrants that it does not have the means
+        reasonably likely to be used to identify any specific individuals from
+        the Covered Data (including by virtue of its contractual commitments
+        under these Model Terms) and that consequently, for the purposes of Data
+        Protection Laws where they apply, in respect of a particular Transaction
+        such Covered Data is not Personal Data.
+
+7.2     The Contracting Parties shall not (nor attempt to) take any steps for
+        the purpose, or with the effect, of causing Covered Data to be Personal
+        Data, including by combining Covered Data with, or using, any other data
+        (including Non-Covered Data) to identify or reidentify any individual.
+
+7.3     Each Contracting Party shall implement appropriate technical and
+        organizational measures to protect against accidental unlawful or
+        unauthorized destruction, loss, alteration or disclosure of, or access
+        to, the Covered Data (together, "Security Measures") and shall set out
+        or reference a description of all such measures in the Main Agreement.
+
+7.4     Notwithstanding clause 7.1, each Contracting Party shall ensure that it
+        publishes on its digital property a notice relating to its processing of
+        Covered Data, including a statement that it is bound by these Model
+        Terms in respect of the Covered Data it processes, with a link to the
+        version of these Model Terms by which it is bound, a description of
+        which of the data it processes is Covered Data and which is not, and an
+        explanation regarding the nature of the Match Key and other Covered Data
+        corresponding to clause 7.1.  The notice, or any part of it, may be
+        given by including or linking to a policy published elsewhere, provided
+        that the policy contains the required information and remains publicly
+        accessible.
+
+7.5     Each Contracting Party shall, on reasonable written notice from the
+        other Contracting Party (and no more than once in any period of 12
+        months unless a Breach Notification has been made in respect of it),
+        provide the other Contracting Party with such information as is
+        reasonably necessary to demonstrate its compliance with these Model
+        Terms.
+
+7.6     Where a Contracting Party reasonably believes that the other Contracting
+        Party has used Covered Data in breach of these Model Terms, it may, on
+        written notice, suspend Transactions with the other Contracting Party
+        and take reasonable and appropriate steps to stop and remediate any
+        unauthorized use of Covered Data. This clause does not limit either
+        Contracting Party's rights under clause 8.
+
+8. BREACH & TERMINATION
+
+8.1     Breach of these Model Terms
+
+    i.    In the event a Contracting Party breaches these Model Terms
+          ("Defaulting Party") the Defaulting Party shall make a Breach
+          Notification in accordance with clause 8.2.
+
+8.2     Breach Notification
+
+    i.    If a Contracting Party becomes aware of a breach of these Model Terms
+          by a Party, then notwithstanding its confidentiality obligations,
+          whether in the Main Agreement or elsewhere:
+
+          a.  the Defaulting Party shall without undue delay (and in any event
+              within 72 hours of becoming aware) cure the breach or, where this
+              is not possible within such period, publish a prominent
+              notification on its web property, in a language appropriate for
+              the applicable Users, setting out the following "Breach Notice":
+
+              A.  the identity of the Defaulting Party;
+
+              B.  the nature of the breach and, in particular, whether the
+                  Contracting Party has engaged in any of the restricted
+                  activities under clause 6; and
+
+              C.  any steps the Defaulting Party has taken to cure the breach;
+                  and
+
+          b.  the Contracting Party that identified the Defaulting Party's
+              breach shall take the following steps in relation to any
+              Defaulting Party:
+
+              A.  to the extent known, notify the Defaulting Party with the
+                  information set out in clause 8.2(i)(a); and
+
+              B.  within 72 hours of becoming aware that the Defaulting Party
+                  has failed to comply with clause 8.2(i)(a), notify the
+                  information set out in clause 8.2(i)(a) in writing to each of
+                  the Supervisory Authorities relevant to the breach (including
+                  the Supervisory Authority with competence for the jurisdiction
+                  in which the Defaulting Party is incorporated and the
+                  Supervisory Authority with competence for the jurisdiction
+                  where it primarily conducts processing relevant to the Main
+                  Agreement).
+
+8.3     Termination
+
+    i.    A Contracting Party may terminate the Main Agreement if the other
+          Contracting Party:
+
+          a.  fails to comply with its obligations under clause 8.2 (Breach
+              Notification);
+
+          b.  commits an incurable and material breach of these Model Terms in
+              the Main Agreement between the Contracting Parties;
+
+          c.  commits a curable breach of these Model Terms in the Main
+              Agreement between the Contracting Parties but fails to cure that
+              breach within 14 days of becoming aware of the breach;
+
+          d.  receives a notice from a Supervisory Authority requiring either
+              Contracting Party to cease processing Covered Data; or
+
+          e.  ceases to carry on all or the relevant part of its business or has
+              a liquidator (both provisional and following a winding up),
+              receiver (including a fixed charge receiver), administrative
+              receiver, administrator, nominee, supervisor or other similar
+              officer appointed in respect of itself or any of its assets under
+              the law of any jurisdiction or notice is given of the intention to
+              make any such appointment.
+
+    ii.   The Contracting Party that identified the breach shall determine in
+          its sole discretion whether or not a breach by the Defaulting Party is
+          a material breach but shall, acting reasonably and in good faith, have
+          regard to the following when exercising that discretion:
+
+          a.  whether the breach was deliberate, willful or resulted from the
+              Defaulting Party's negligence;
+
+          b.  the volume and frequency of the breach and any prior breaches;
+
+          c.  whether the breach involved a failure to comply with the
+              restrictions in clause 6;
+
+          d.  whether, as a result of the breach, an organization that is not a
+              Party linked any Non-Covered Data to the Covered Data; and
+
+          e.  whether, as a result of the breach, an organization that is not a
+              Party linked the User's offline identity to the Covered Data.
+
+8.4     Effect of Termination
+
+        If the Main Agreement between the Contracting Parties terminates or
+        expires, the Contracting Parties shall immediately cease sending or
+        receiving Covered Data and using it for the purposes set out in clause
+        4.4 except to the extent permitted by Data Protection Laws, in
+        accordance with the Preferences.
+
+9. WARRANTY & LIABILITY
+
+9.1     No Warranty
+
+        EXCEPT AS EXPRESSLY SET OUT IN THE MAIN AGREEMENT BETWEEN THE
+        CONTRACTING PARTIES, THE SENDER PROVIDES THE COVERED DATA "AS IS"
+        WITHOUT REPRESENTATION OR WARRANTY OF ANY KIND, EITHER EXPRESSED OR
+        IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+        MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN PARTICULAR,
+        EACH CONTRACTING PARTY ACKNOWLEDGES AND AGREES THAT ENTRY BY IT INTO ANY
+        MAIN AGREEMENT DOES NOT OF ITSELF GUARANTEE THAT EITHER CONTRACTING
+        PARTY WILL BE COMPLIANT WITH ANY OR ALL DATA PROTECTION LAWS OR OTHER
+        APPLICABLE LAWS.
+
+9.2     Liability
+
+    i.    SUBJECT TO CLAUSE 9.2(ii), NOTHING IN ANY MAIN AGREEMENT SHALL LIMIT
+          OR EXCLUDE THE LIABILITY OF A CONTRACTING PARTY TO ANY OTHER PARTY IN
+          CONNECTION WITH THESE MODEL TERMS.
+
+    ii.   TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAWS, A CONTRACTING
+          PARTY SHALL NOT BE LIABLE TO ANY OTHER PARTY IN CONNECTION WITH ANY
+          BREACH NOTIFICATION IT MAKES UNDER THESE MODEL TERMS PROVIDED THAT THE
+          CONTRACTING PARTY CAN REASONABLY DEMONSTRATE IT MADE THAT NOTIFICATION
+          IN GOOD FAITH AND REMOVES OR CORRECTS (AS APPLICABLE) ANY BREACH
+          NOTIFICATION MADE IN OR CONTAINING AN ERROR IMMEDIATELY AFTER BECOMING
+          AWARE OF THE ERROR.
+
+10. OTHER IMPORTANT TERMS
+
+10.1    Intellectual Property
+
+        Nothing in these Model Terms transfers any ownership of any intellectual
+        property rights of a Contracting Party to the other Contracting Party.
+
+10.2    Interpretation
+
+        In these Model Terms, headings are used for convenience only and shall
+        not control the meaning or the interpretation of any of the provisions
+        in these Models Terms and words that appear after the expression
+        "include", "including", "other" "for example", "such as" or "in
+        particular" (or any similar expression) in these Model Terms shall not
+        limit the meaning of the words appearing before such expression.
+
+10.3    Conflict
+
+        Nothing in the Main Agreement shall be construed as overriding or
+        superseding these Model Terms. If there is any conflict or inconsistency
+        between the provisions of the Main Agreement and these Model Terms, the
+        latter shall prevail.
+
+10.4    Severability
+
+        If any part of these Model Terms is found to be unenforceable as a
+        matter of law, all other parts of these Model Terms will not be affected
+        and shall remain in force.
+
+10.5    Compliance with Law
+
+        Nothing in these Model Terms requires a Contracting Party to act
+        contrary to applicable law, and no action a Contracting Party is legally
+        compelled to take by a court, regulator or public authority with
+        jurisdiction over it shall constitute a breach of these Model Terms.
+
+11. GOVERNING LAW & JURISDICTION
+
+11.1    These Model Terms shall be governed by and shall be subject to the
+        jurisdiction of the laws and courts (or other means of dispute
+        resolution) expressly specified elsewhere in the Main Agreement
+        respectively.
+
+11.2    Nothing in this clause 11 shall prevent either Contracting Party from
+        applying to the courts of any jurisdiction for such provisional or
+        protective measures as are available under the laws of that
+        jurisdiction, including seeking interlocutory and/or injunctive relief.
+
+Appendix 1: TCF Purposes Mapped to Standard Marketing and Personalized
+Marketing
+
+STANDARD MARKETING
+
+    Selecting "standard marketing" means you prefer to receive targeted
+    marketing and other content unrelated to your browsing history or
+    interactions, such as content based on time, geographic region and
+    current context, and to the use of the cookies described in our
+    Privacy Policy [insert link to Privacy Policy] to make this happen.
+
+    Required TCF Purposes:
+
+        Purpose 1:  Store and/or access information on a device
+        Purpose 2:  Use limited data to select advertising
+        Purpose 7:  Measure advertising performance
+        Purpose 8:  Measure content performance
+        Purpose 11: Use limited data to select content
+
+        Special Purpose 2: Deliver and present advertising and content
+
+PERSONALIZED MARKETING
+
+    Selecting "personalized marketing" means you choose to receive
+    targeted marketing and other content related to your browsing history
+    or interactions and to the use of the cookies described in our Privacy
+    Policy [insert link to Privacy Policy] to make this happen.
+
+    Required TCF Purposes:
+
+        Purpose 1:  Store and/or access information on a device
+        Purpose 2:  Use limited data to select advertising
+        Purpose 3:  Create profiles for personalised advertising
+        Purpose 4:  Use profiles to select personalised advertising
+        Purpose 5:  Create profiles to personalise content
+        Purpose 6:  Use profiles to select personalised content
+        Purpose 7:  Measure advertising performance
+        Purpose 8:  Measure content performance
+        Purpose 11: Use limited data to select content
+
+        Special Purpose 2: Deliver and present advertising and content
+
+TCF Purposes may be found at https://iabeurope.eu
+
+***
+
+Copyright and disclaimer statement
+
+Copyright (c) 2026 Shoosmiths LLP
+
+Everyone is permitted to copy or distribute verbatim copies of these terms, but
+changing these terms is not permitted. All distributed copies of these terms or
+any thing incorporating them must include this copyright and disclaimer
+statement.
+
+These terms have been produced by the law firm Shoosmiths LLP. Nothing in these
+terms shall be construed as legal advice. Shoosmiths LLP and 51Degrees.Mobi
+Limited disclaim all liability to any person using or relying on all or any part
+of these terms for that purpose.
