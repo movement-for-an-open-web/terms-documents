@@ -1,0 +1,976 @@
+Search Only Terms Contract: for Access and Use of Website
+
+This Search Only Terms Contract: for Access and Use of Website (the “Contract”)
+is hereby notified to all Accessing Parties and establishes the legal conditions
+governing Access of the Website Content associated with the Website, any
+sub-links or associated applications, websites and pages, and all materials
+accessible subject to this Contract.
+
+This Contract is to function as a contractual instrument, notice of legal
+restrictions, the notification of the reservation of Intellectual Property
+Rights which the Website Operator wholly retains, and a governance framework
+regulating Website Content Access, interaction with and ingestion by any
+Accessing Party, Artificial Intelligence System technologies, for Dataset
+building, or Derivative Dataset, or Foundation Model construction activities or
+similar technologies or actions when Accessing or using the Website Content in
+any way.
+
+By Accessing the Website or Website Content in any manner, on any device, from
+any location, the Accessing Party acknowledges and agrees to the restrictions
+contained in this Contract.
+
+1. Definitions and Interpretation
+
+For the purposes of this Contract the definitions and interpretation are as set
+out in Annex A below.
+
+2. Reservation of Intellectual Property and Other Rights
+
+2.1. All rights, title and interest in the Website and Website Content are owned
+by or licensed to the Website Operator.
+
+2.2. Such rights include without limitation: (a) copyright; (b) database rights;
+(c) rights in compilations and Datasets; (d) trade secrets; (e) contractual
+rights; (f) rights arising under the law of confidence; (g) other Intellectual
+Property Rights recognised under the law of England and Wales.
+
+2.3. All rights not expressly granted in this Contract are reserved. Nothing in
+this Contract grants additional rights or any licence by implication, estoppel,
+or otherwise except where explicitly stated.
+
+2.4. This Contract constitutes a legally binding agreement between the Website
+Operator and each Accessing Party. Access to the Website and the Website Content
+is provided as a conditional service; and in consideration of compliance with
+this Contract, including payment obligations arising under Clause 4.
+
+2.5. For the avoidance of doubt:
+
+2.5.1. Access to the Website and Website Content is governed by a contractual
+payment obligation arising per Access Event; and
+
+2.5.2. Use of Website Content is governed by Intellectual Property Rights and
+contractual restrictions.
+
+2.6. Payment of an Access Fee does not grant any right to use, reproduce, or
+exploit the Website or Website Content in any manner; and does not constitute a
+licence beyond the limited, conditional permissions expressly set out in this
+Contract.
+
+2.7. Any permission to Access or interact with the Website or Website Content
+without payment operates solely as a conditional waiver of the Access Fee in
+accordance with Clause 4.4; and is strictly limited to the circumstances where
+all applicable conditions under this Contract are satisfied.
+
+2.7.1. Any non-compliance automatically terminates the waiver; and results in
+the Access Fee becoming immediately due and payable.
+
+2.8. Rights beyond those licensed in this Contract may only be granted by
+express, written, agreement between the Website Operator and the Accessing
+Party.
+
+2.9. Separate and alongside the Intellectual Property Rights this Contract
+operates as a contractual agreement between the Website Operator and the
+Accessing Party, concerning the Website Content owned by Website Operator. This
+Contract applies the same restrictions on use of the Website Content as the
+licence terms below.
+
+2.10. All Intellectual Property Rights and associated remedies are expressly
+reserved and operate independently of any contractual payment obligations. The
+Website Operator reserves the right to pursue, without limitation: injunctive
+relief; damages; equitable remedies; and any other relief, whether or not a
+contractual debt claim is pursued.
+
+2.11. This Contract operates as the sole governing contractual instrument in
+respect to Access, interaction with and ingestion of the Website and Website
+Content. Any third-party terms are expressly excluded and shall have no effect
+unless agreed in writing by the Website Operator, included any invocation Clause
+3.
+
+2.12. The Accessing Parties are responsible for regularly checking the Website
+and this Contract for any updates. It is the Accessing Party’s responsibility to
+stay informed about any changes to their obligations and restrictions.
+
+3. No Implied Acceptance of Google’s 2023 Amended Terms
+
+3.1. Google’s publicly available terms of service, privacy policy and developer
+guidelines in force prior to 2023 permitted the use of crawling technology and
+indexing of publicly accessible human authored Website Content (“Pre 2023 Google
+Terms”).
+
+3.2. In 2023, Google unilaterally introduced amended terms, policy updates, and
+developer guidelines that expanded Google’s ability to use publicly accessible
+content for automated outputs, including generated responses by Artificial
+Intelligence Systems and allows AI-generated content to appear in Search results
+(“2023 Google Terms”). These amendments materially reduced the protections
+afforded under the Pre 2023 Google Terms and altered Google’s treatment of
+indexed material. The Website Operator considers the 2023 Google Terms to be
+abusive and void and note that they are the subject of ongoing complaints, and
+investigations by the competition authorities.
+
+3.3. The Website Operator expressly does not accept the 2023 Google Terms.
+Access to the Website and Website Content, and any interaction by Google or its
+automated system(s), does not constitute acceptance or waiver of those the 2023
+Google Terms. Any reliance by Google on unilateral amendments is wholly
+rejected, and any continued attempt to impose the 2023 Google Terms places the
+Website Operator under economic duress, as they materially restrict the Website
+Operator’s ability to conduct its business.
+
+3.4. If Google continues attempting to apply the 2023 Google Terms, this
+Contract shall operate as the sole governing contractual instrument and licence
+regulating any Search Indexing or Crawler‑based Access to the Website and the
+Website Content. The 2023 Google Terms, and any unilateral amendments, shall
+have no effect and shall not govern Access to or use of the Website and Website
+Content.
+
+4. Licence to Access Website
+
+4.1. Access to the Website is conditional and constitutes acceptance of this
+Contract. Each Accessing Party entering, interacting with, or otherwise making
+any request to the Website or Website Content, does do so subject to the terms
+of this Contract. All non-Licensed Access, is Unlicensed Access unless expressly
+agreed in writing in a binding agreement between the Accessing Party and Website
+Operator.
+
+4.1.1. All Website Content may not be reproduced, distributed, transmitted,
+displayed, altered, or used in any way directly or indirectly or in derivative
+work, published or broadcast without prior written permission from the Website
+Operator.
+
+4.2. When an Accessing Party Accesses the Website (which holds the Website
+Contents, and its associated Products) this creates the Access Event. Multiple
+Products may be contained within the one Website. When a separate Accessing
+Party, which is different than the first, accesses the Website and the Products,
+this gives rise to their own separate Access Event(s).
+
+4.3. An Access Event is subject to the payment of a fee, of £500 being five
+hundred pounds sterling, per Product accessed (the “Access Fee”), or such other
+amount that may be determined by the Website Operator at its discretion.
+
+4.3.1 Each Product accessed gives rise to a separate and independent contractual
+payment obligation.
+
+4.3.2 A Product of a Website includes: an article, an item, an image, a video,
+an audio file or other media.
+
+4.4. The Website Operator hereby waives the Access Fee solely where the Access
+Event: falls strictly within the scope of Licensed Access, which includes the
+Non-Commercial Use (for clarity this also includes repackaging the Website
+Content for assistive technologies for Accessibility use for Non-Commercial
+Use), and Search Indexing by Permitted Crawling Activity; and complies fully
+with all requirements set out in this Clause 4 and elsewhere in this Contract.
+
+4.4.1. Any failure to comply strictly with such conditions shall result in the:
+automatic withdrawal of the waiver as set out in Clause 4.4; and the Access Fee
+becoming immediately due and payable for each relevant Access Event.
+
+4.5. Website Content is licensed, not sold and may not be reproduced,
+distributed, modified, displayed, performed, published, licensed, used directly
+or indirectly, or used to create derivative works from the Website Content.
+Downloading of all or parts of a product in a systematic or regular manner is
+strictly prohibited unless strictly for Search Indexing. Reproducing the Website
+wholly and/or in part without including the terms of this Contract is strictly
+forbidden.
+
+4.6. The Website Operator may instruct the Licensed User via computer code how
+the Licensed Access is permitted for the Website, and the Website Content.
+
+4.6.1. Search Engine Crawlers are permitted to perform the following activities
+solely to support the Permitted Crawling Activity: (a) Crawlers may Access and
+download Website Content that is publicly accessible through standard HTTP or
+HTTPS requests and that does not require authentication credentials, payment
+access, or other access controls; (b) Crawlers may follow hyperlinks embedded in
+publicly accessible pages to discover additional URLs available on the Website;
+and (c) Crawlers may retrieve resources referenced by webpages where necessary
+to render or interpret the page content accurately.
+
+4.6.2. Search Indexing is only permitted where the Licenced User stores any
+Website Content solely to enable indexing and retrieval for Search
+functionality. This is solely for processing the index, retrieving, and serving
+Search results. This includes rendering in line with Permitted Crawling Activity
+to direct Search for Non-Commercial Use. Provided also that such processing does
+not result in the retention, reuse, or exploitation of Website Content beyond
+what is reasonably necessary to provide the Search service.
+
+4.6.2.1. Website Content is presented in Search to Non-Commercial Users in short
+form quotations, without any and all amendments. Any rendering of the Website
+Content outside of Search, or of the Website is an Unlicensed Access unless
+expressly agreed in writing in a binding agreement between the Accessing Party
+and Website Operator. Any deviation from these conditions constitutes Unlicensed
+Access and triggers the Access Fee.
+
+4.7. As a condition of Licensed Access, the Accessing Party of the Website or
+Website Content agrees that, upon written request by the Website Operator, they
+shall promptly provide a full and accurate disclosure of any Access Event and
+use of the Website Content. This includes but is not limited to, the manner in
+which the Website Content has been Accessed, stored, copied, processed, used,
+incorporated, or derived from, whether manually, or through a Crawler, or any
+Artificial Intelligence System. This clause is made in line with and in addition
+to the provisions of Clause 11.
+
+4.7.1. The Accessing Party shall provide such information, records, technical
+details, or documentation as are reasonably necessary to enable the Website
+Operator to determine whether any Unlicensed Use has occurred, and to verify
+compliance with this Contract.
+
+4.7.2. Failure to comply with this disclosure obligation shall constitute a
+material breach of this Contract and may, without limitation, be treated as
+evidence of Unlicensed Access, and may be relied upon as evidence in determining
+the number of chargeable Access Events.
+
+5. Reservation of Position in Equity
+
+5.1. Without prejudice to any rights or remedies available at law, in contract
+or otherwise, the Website Operator expressly reserves all rights and remedies
+available in equity in connection with the Website Content, and any Unlicensed
+Access. Nothing in this Contract, nor any act, omission, delay, indulgence,
+forbearance or failure to enforce any right, shall operate as a waiver, release
+or extinguishment of any equitable right or remedy of the Website Operator,
+including the right to seek and obtain equitable relief as necessary.
+
+5.2. The Website Operator retains the right, in its sole discretion and at any
+time, to pursue any and all forms of equitable relief against any person, and/or
+Accessing Party reasonably suspected of being an Unlicenced User.
+
+6. Restrictions and Website Operator Controls
+
+6.1. Notwithstanding the permissions granted above, the Website Operator
+reserves the right to restrict or regulate Access to the Website or Website
+Content via any and all means.
+
+6.2. Website and Website Content Access may be further limited or restricted
+through the use of a robots.txt file or equivalent technical, or machine
+readable, or Website directives.
+
+6.3. Permitted Crawling Activity is expected to comply with the terms of this
+Contract, provided that such activity:
+
+6.3.1. Complies with technical access controls and machine-readable directives
+implemented by the Website Operator;
+
+6.3.2. Does not involve extraction beyond what is reasonably necessary to
+maintain a searchable index;
+
+6.3.3. Does not involve storage, reuse, or processing of Website Content for
+Artificial Intelligence System training, or commercial content exploitation
+other than Search retrieval and display purposes;
+
+6.3.4. Does not alter the content republished for the limited purpose of
+enabling consumers to navigate to the Website Content under Website control; and
+
+6.3.5. Does not circumvent authentication, rate-limiting, paywalls, or other
+Access restrictions.
+
+6.4. The Website Operator may designate certain pages as excluded from Search
+Indexing using directives or any method of informing Crawlers as to the
+permissions being expressed by the Website Operator.
+
+6.5. Search Engine Crawlers are not authorised to Access any content requiring:
+login authentication; password protection; API credentials; private network
+access; or restricted subscription access.
+
+6.6. The Website Operator may implement server-side protections that limit
+Crawler request rates, including but not limited to: HTTP rate limiting;
+throttling mechanisms; temporary service unavailability responses; search engine
+operators are expected to respect such signals to avoid undue strain on
+infrastructure.
+
+6.7. Circumvention of technical controls including rate limiting, authentication
+mechanisms, anti-scraping protections, or Access restrictions constitutes
+unauthorised Access and/or Unlicensed Access.
+
+6.8. Except for Search Index Access, unless subject to notified change or
+amendment, for all other elements the Website Operator reserves the right,
+including but not limited to, modify, restrict, or revoke Crawler Access to the
+Website at any time through: robots.txt directives; HTTP headers or directives;
+anti-scraping protections; server configuration changes; or updates to this
+Contract from time to time.
+
+7. Prohibition on AI Scraping and Data Mining
+
+7.1. Except where expressly authorised in writing by the Website Operator, the
+Accessing Party may not scrape, ingest, Access, copy, index, or use Website
+Content for purposes unrelated to Search Indexing.
+
+7.2. Any Unlicensed Access to exploit the Website or Website Content for any
+purpose, including but not limited to portraying, or passing off in Artificial
+Intelligence Systems outputs as human generated material is strictly prohibited.
+Any Access not consistent with Search Indexing will constitute Unlicensed
+Access.
+
+7.3. Herein this Contract expressly and directly provides explicit notice that
+prohibited Unlicensed Access activities include but are not limited to: (a)
+training Foundation Models and/or Artificial Intelligence Systems; (b)
+generating Embeddings; (c) constructing Datasets; (d) fine‑tuning generative
+models; (e) enriching Artificial Intelligence Systems generative content; (f)
+benchmarking Artificial Intelligence Systems; and/or (g) creating Derivative
+Datasets.
+
+8. Database Rights Protection
+
+8.1. Where Website Content constitutes a database, it may be protected by
+copyright in the structure of the database and by sui generis database rights,
+being rights of their own kind, class or unique that protect the substantial
+investment in obtaining, verifying, or presenting database contents.
+
+8.2. Extraction or reutilisation of substantial, and insubstantial parts, of
+such databases is prohibited.
+
+9. Data Labelling, Watermarking and Provenance
+
+9.1. The Website Operator may embed provenance signals in Website Content
+including but not limited to: Embeddings, digital signatures, watermark
+identifiers, stylometric watermarking, statistical token markers, and metadata
+provenance identifiers. Removal of these signals from Website Content is
+prohibited in all situations.
+
+9.2. The Website Operator may rely on metadata defined in this Contract to
+signal to all Accessing Parties its ownership and use restrictions associated
+with the information accessed from Website Operator’s Website and the Website
+content.
+
+9.3. The absence of a watermark, date label and other marks of provenance is not
+evidence of permission.
+
+10. Machine‑Readable Legal Restrictions
+
+10.1. The Website Operator may deploy machine‑readable signals communicating
+legal restrictions on automated Access and Artificial Intelligence System Access
+and training.
+
+10.2. Such signals may include, but are not limited to, HTML metadata tags, HTTP
+response headers, robots.txt directives, Crawler exclusion protocols, and other
+technical indicators.
+
+11. Dataset Audit Rights
+
+11.1. Where the Website Operator reasonably suspects that the Accessing Party
+has made Unlicensed Access of the Website Content, the Website Operator may
+require the Accessing Party to promptly disclose sufficient information and
+documentation to enable the Website Operator to determine whether such
+Unlicenced Access has occurred. Such disclosure obligations shall apply upon
+written request and must be complied with fully, accurately, and without undue
+delay. This Clause supplements Clause 4.7.
+
+11.2. The information required to be disclosed may include, without limitation:
+(a) complete training Datasets, Derived Datasets, or Datasets inventories; (b)
+Dataset provenance records and acquisition logs; (c) data collection and
+preprocessing pipelines; (d) model training logs, configuration files, and
+training parameters; (e) model architecture documentation and system design
+materials; and (f) representative model outputs, Embeddings, or other derived
+artefacts as reasonably necessary, in readable format, to assess whether Website
+Content has been used.
+
+11.3. Where the Website Operator reasonably suspects that an Artificial
+Intelligence System, Foundation Model or other Crawler has ingested Website
+Content in breach of this Contract, the Website Operator reserves the right to
+verify compliance with this Contract. The Website Operator may require the
+Accessing Party to promptly disclose technical information, supporting
+documentation, or explanations relating to the development, training,
+validation, or operation of the Artificial Intelligence System as reasonably
+necessary, in readable format, to assess whether Website Content has been used.
+Failure to provide such information may be treated as evidence of Unlicensed
+Access of Website Content, either directly or through third party Unlicensed
+Access.
+
+Contractual Enforcement
+
+12. Debt Recovery – Online Money Claim/Small Claims Track
+
+12.1. The Website Operator may from time to time seek to recover from the
+Accessing Party any accumulated debt arising from Access Events as described in
+Clause 4.2 after deduction for any Licenced Access pursuant to Clause 4.4.
+
+12.2. The Website Operator may determine the number of Unlicenced Access Events
+based on monitoring or technical logs including any information that may be
+requested and provided pursuant to Clause 4.7 of this Contract. The Website
+Operator's reasonable determination of the number of Unlicenced Access events,
+based on server logs, technical monitoring, watermark detection, provenance
+signals, or other technical evidence, shall be presumed to be accurate unless
+the Accessing Party demonstrates otherwise with clear and verifiable evidence.
+
+12.3. Where multiple Unlicenced Access events give rise to multiple contractual
+debts, the Website Operator may, at its discretion, aggregate those debts and
+pursue them as a single claim. Where the aggregate value of debts claimed does
+not exceed £10,000, the claim may be issued via the Money Claim Online (“MCOL”)
+service and allocated to the small claims track pursuant to Civil Procedure
+Rules (“CPR”) Part 27 and Practice Direction 7C. Where the aggregate value of
+debts claimed exceeds £10,000, the Website Operator reserves the right to issue
+proceedings in the County Court on the fast track or multi-track as appropriate,
+or to bring successive claims in respect of distinct tranches of Unlicenced
+Access events.
+
+12.4. Prior to issuing any claim under this Clause 12, the Website Operator
+shall, unless urgency or the risk of evidence destruction makes it
+impracticable, send a Letter Before Claim to the Accessing Party setting out:
+(a) the nature and basis of the claim; (b) the number of Unlicenced Access
+events alleged; (c) the total debt claimed; and (d) a reasonable time, being not
+less than 14 days from the date of the letter, within which the Accessing Party
+may respond or settle the debt. The Website Operator reserves the right to
+present any failure to respond (including any request for information pursuant
+to Clause 4.7 of this Contract) or settle as evidence of unreasonable conduct
+for the purposes of any costs application under CPR 27.14(2)(g).
+
+12.5. Each contractual debt accrues interest from the date it falls due until
+the date of payment, whether before or after judgment, at the rate of 8% per
+annum or if applicable the rate under section 69 of the County Courts Act 1984
+or for qualifying commercial debts, under the Late Payment of Commercial Debts
+(Interest) Act 1998. The Website Operator reserves the right to claim such
+interest in any proceedings issued under this Clause 12.
+
+12.6. The Website Operator reserves the right to recover all court fees or where
+applicable recoverable costs incurred in issuing and pursuing proceedings under
+this Clause 12 in addition to the principal debt and interest. The Website
+Operator further reserves the right to seek an order for costs against any party
+that has behaved unreasonably in connection with a small claims track claim,
+pursuant to CPR 27.14(2)(g), including but not limited to failure to respond to
+a Letter Before Claim including any failure to provide the information requested
+pursuant to Clause 4.7 of this Contract, failure to engage with pre-action
+correspondence, or conduct that has unnecessarily increased the cost of the
+proceedings.
+
+12.7. Where judgment is obtained under this Clause 12, the Website Operator
+reserves the right to enforce that judgment by any method available under
+applicable law, including but not limited to: (a) a warrant of control; (b) a
+third party debt order; (c) a charging order over property; (d) an attachment of
+earnings order; and (e) registration of a County Court Judgment (“CCJ”). Where
+the judgment debtor is located outside England and Wales, enforcement shall
+proceed in accordance with applicable international conventions, bilateral
+treaties, or such other available mechanisms as may apply. The Website Operator
+further reserves the right to pursue injunctive relief and website-blocking
+orders in parallel with debt recovery proceedings, as further provided in
+Clauses 14 and 15 of this Contract.
+
+12.8. In accordance with Clause 2.10 above, the Website Operator's election to
+pursue debt recovery under this Clause 12 does not constitute a waiver of any
+right to seek injunctive relief, damages, an account of profits, or any other
+remedy or cause of action under this Contract or at law.
+
+Website Operator Enforcement Mechanisms
+
+13. Enforcement and Remedies
+
+13.1. Without prejudice to any other rights or remedies available to the Website
+Operator, the Website Operator reserves the right, at its sole discretion, and
+to the fullest extent permitted by applicable law, to pursue any and all
+remedies available at law or in equity in connection with any breach of this
+Contract or any Unlicenced Access to the Website Content.
+
+13.2. The Website Operator shall have the exclusive right, at its sole 
+discretion and to the fullest extent permitted by applicable law, to determine
+the nature, scope, timing, and manner of any enforcement action arising out of
+or in connection with this Contract, including any actual, suspected, or
+threatened Unlicensed Access to the Website Content or infringement of its
+Intellectual Property Rights.
+
+13.3. The enforcement mechanisms available to the Website Operator under this
+Contract are intended to operate cumulatively and in parallel, and include,
+without limitation, contractual, statutory, and equitable remedies, as well as
+technical, operational, and intermediary-directed measures.
+
+13.4. The Website Operator may take enforcement action directly against any
+Accessing Party, as well as against any third party, intermediary, or downstream
+participant involved in, facilitating, enabling, benefiting from, or otherwise
+connected to any Unlicensed Access of the Website Content, whether such person
+or entity is identified, identifiable, or anonymous.
+
+13.4.1. The Website Operator expressly reserves the right to seek third-party
+disclosure and information orders against any person or entity who is or may be
+mixed up in, facilitating, enabling, or otherwise connected with any Unlicensed
+Access, including but not limited to orders pursuant to the principles in
+Norwich Pharmacal Co v Customs and Excise Commissioners [1974] AC 133, requiring
+disclosure of the identity of wrongdoers or details of unlawful activity.
+
+13.5. Enforcement measures may be initiated irrespective of whether proceedings
+have been commenced, and may include pre-emptive, interim, or post-judgment
+actions, including urgent or without-notice applications, where the Website
+Operator reasonably considers such measures necessary to prevent, restrain,
+investigate, mitigate, or remedy harm.
+
+13.6. The Website Operator shall not be required to exhaust any remedy before
+pursuing others, and no election of remedies shall be implied by the exercise of
+any right or the taking of any enforcement action.
+
+13.7. Such remedies may include, without limitation: (a) claims for damages,
+losses, and other monetary relief; (b) restitution for unjust enrichment; (c) an
+account of profits derived from the unauthorised use of Website Content; (d)
+delivery-up, deletion, or destruction of infringing materials, Datasets, or
+Derivative Datasets; and (e) the obtaining of blocking orders, takedown orders,
+or other intermediary-directed measures requiring Internet service providers,
+hosting providers, domain registrars, platform operators, or other
+intermediaries to restrict, suspend, or disable Access to infringing systems,
+services, domains, servers, or online locations.
+
+13.8. The Website Operator may also seek orders requiring the preservation of
+evidence, disclosure of relevant technical materials, or other compliance
+measures necessary to investigate, prevent, or remedy any Unlicenced Access of
+Website Content.
+
+14. Injunctive Relief
+
+14.1. Any Unlicensed Access of the Website Content and IPR causing, or
+reasonably likely to cause harm to the Website Operator, shall entitle the
+Website Operator to seek urgent injunctive relief without notice, pursuant to
+Rule 25.8 of the CPR. The injunction may be sought under section 37 of the
+Senior Courts Act 1981 or section 38 of the County Courts Act 1984, as well as
+any other applicable law or procedure, including but not limited to an equitable
+injunction (see Clause 5).
+
+14.2. The Website Operator may seek any other such injunctive or interim relief
+to restrain any actual, threatened, or apprehended Unlicenced Access of its
+Website Content and IPR. Such interim relief can be obtained at any stage,
+including before, during or independently of proceedings, and it may be
+continued, intensified, or converted into a final injunction. The Website
+Operator reserves the right to seek final injunctive relief immediately,
+wherever the seriousness of the misconduct requires enduring restraints.
+
+14.3. The relief sought may take any form recognised by the Courts of England
+and Wales, including but not limited to:
+
+14.3.1. Prohibitory injunctions, restraining the Unlicensed User from engaging
+in any Unlicensed Access or any construction of Datasets, Derivative Datasets,
+Foundation Models, Artificial Intelligence Systems Access involving the Website
+Content and IPR;
+
+14.3.2. Mandatory injunctions, requiring the Unlicensed User to take immediate
+corrective action, including but not limited:
+
+14.3.2.1. The destruction or secure deletion of model weights, checkpoints,
+Embeddings, parameter files, or other machine learning artefacts derived from,
+or incorporating Website Content;
+
+14.3.2.2. The removal of any embedded representations of Website Content;
+
+14.3.2.3. The retraining or reconstruction of affected Artificial Intelligence
+Systems without the use of Website Content or any derivative representations
+thereof; and
+
+14.3.2.4. The suspensions of any Foundation Model and Artificial Intelligence
+System, or their versions, built on or benefitting from the misused Website
+Content.
+
+14.3.3. Newcomer injunctions, binding any person and/or Accessing Party with
+notice of the order, whether identified, unidentified, uninvolved, or not
+previously engaged in the Unlicensed Access, and operating contra mundum to
+restrain all present and future participants from engaging in any Unlicensed
+Access.
+
+and any other injunctive or ancillary order necessary to restrain, prevent, or
+neutralise further harm.
+
+15. Website-Blocking Order
+
+15.1. Where the Accessing Party is responsible for the Unlicensed Access is
+outside the Contract jurisdiction, cannot be identified, or operates through
+anonymised or automated means, the Website Operator may seek a website‑blocking
+order requiring Internet Service Providers (“ISPs”) to block Access by the
+Unlicenced User to the websites, servers, domains, IP addresses, or other
+technical locations being used to infringe its Intellectual Property Rights.
+Such relief may be obtained pursuant to section 97A of the Copyright, Designs
+and Patents Act 1988 and/or any other applicable law in England and Wales.
+
+16. Foundation Model Contamination Doctrine
+
+16.1. Any Artificial Intelligence System, Foundation Model, Dataset, Derivative
+Dataset that is trained, fine-tuned, validated, benchmarked, or otherwise
+developed using Website Content without the express prior written authorisation
+of the Website Operator shall be deemed a “Contaminated Model”. For the
+avoidance of doubt, any Unlicensed Access of Website Content constitutes
+unauthorised use unless expressly licensed in writing by the Website Operator.
+
+16.2. Where a Contaminated Model is identified or reasonably suspected, the
+Website Operator reserves the right, without limitation and at its sole
+discretion, to pursue any legal or equitable relief. This includes but is not
+limited to:
+
+16.2.1. Seeking court orders requiring the immediate deletion or destruction of
+training Datasets, Derivative Datasets, Embeddings, model weights, checkpoints,
+or other artefacts derived from Website Content;
+
+16.2.2. The retraining of affected models without use of such content;
+
+16.2.3. The removal of any embedded representations of Website Content; and
+
+16.2.4. The suspension, withdrawal, or prohibition of deployment, distribution,
+licensing, or commercial exploitation of the affected Artificial Intelligence
+System.
+
+17. Reverse Burden of Proof for AI Training Datasets
+
+17.1. Where any identifiable watermark, provenance signal, metadata marker,
+stylometric identifier, statistical token pattern, data label or other technical
+indicator associated with Website Content appears within any Artificial
+Intelligence System output, Dataset, Derivative Dataset, Embedding, or related
+data artefact, a rebuttable presumption shall arise that Website Content has
+been subject to Unlicensed Access.
+
+17.2. In such circumstances, the Accessing Party shall bear the full burden of
+demonstrating, with clear and verifiable documentary evidence, that Website
+Content was not used in the: training, development, preprocessing, Dataset
+construction, or operation of the relevant Artificial Intelligence System.
+
+17.3. Such evidence may include, without limitation: complete training Dataset
+records, Derivative Datasets, Dataset provenance documentation, Foundation Model
+training records, preprocessing pipelines, training logs, model architecture
+documentation, and other technical materials reasonably necessary, in readable
+format, to verify the origin of the training data.
+
+18. Equitable Tracing into AI Outputs
+
+18.1. Where Unlicenced Access of the Website Content has occurred, the Website
+Operator reserves the right, to the fullest extent permitted by applicable law,
+to trace and identify any economic value, benefit, or advantage derived directly
+or indirectly from such use into any Artificial Intelligence Systems, Derivative
+Datasets, Datasets, Embeddings, software products, commercial services, or other
+downstream systems developed, trained, deployed, or offered by the Unlicensed
+User or Accessing Party.
+
+18.2. Without limitation to any other rights or remedies available at law or in
+equity, the Website Operator may seek appropriate relief including, but not
+limited to: (a) disgorgement of profits or revenues attributable to the
+unauthorised use of Website Content; (b) restitution of unjust enrichment
+obtained through such use; (c) orders pursuant to the principles in Bankers
+Trust Co v Shapira [1980] 1 WLR 1274, requiring disclosure of information
+necessary to trace, identify, preserve, or recover assets, data, economic value,
+or other benefits derived from the misuse of Website Content; (d) equitable
+compensation for losses suffered by the Website Operator; and (e) any other
+monetary or equitable relief necessary to prevent the continued retention or
+exploitation of value derived from Website Content.
+
+18.3. Such remedies may apply to any person, Accessing Party or entity that
+develops, deploys, distributes, licenses, commercialises, uses, or otherwise
+benefits from the relevant Artificial Intelligence System. Whether directly or
+indirectly, to the extent that value derived from Website Content can reasonably
+be traced into the Foundation Model, Artificial Intelligence System’s generated
+outputs, Datasets, Derivative Datasets or services associated with that system.
+
+19. AI Model Disgorgement and Destruction Orders
+
+19.1. Where any Artificial Intelligence System, Foundation Model, Dataset, or
+Derivative Dataset has been trained, fine-tuned, validated, benchmarked, or
+otherwise developed using Website Content without the express prior written
+authorisation of the Website Operator, the Website Operator reserves the right,
+to the fullest extent permitted by applicable law and equity, including court
+orders requiring one or more of the following remedial measures:
+
+19.1.1. The deletion, destruction, or permanent removal of any training
+Datasets, or Derivative Datasets containing Website Content;
+
+19.1.2. The destruction or secure deletion of model weights, checkpoints,
+Embeddings, parameter files, or other machine learning artefacts derived from,
+or incorporating Website Content;
+
+19.1.3. The retraining or reconstruction of affected Artificial Intelligence
+Systems without the use of Website Content or any derivative representations
+thereof;
+
+19.1.4. The identification and removal of embedded representations, tokenised
+fragments, memorised outputs, or other reproductions of Website Content
+contained within the relevant Artificial Intelligence System;
+
+19.1.5. The disgorgement of profits, revenues, licensing income, or other
+financial benefits derived directly or indirectly from the operation,
+distribution, or commercial exploitation of the affected Artificial Intelligence
+System; and
+
+19.1.6. The suspension, withdrawal, prohibition, or restriction of the
+deployment, licensing, distribution, or commercial use of any Artificial
+Intelligence System determined to incorporate or derive from Website Content.
+
+20. Waiver
+
+20.1. A waiver of any right or remedy under this Contract or at law is only
+effective if given in writing by the Website Operator and shall not constitute a
+waiver of any subsequent right or remedy.
+
+20.2. A failure or delay by the Website Operator to exercise any right or remedy
+(singly or partially) under this Contract or at law shall not operate as a
+waiver of that or any other right or remedy, nor shall it prevent or restrict
+any further exercise of that or any other right or remedy.
+
+20.3. A waiver of a right or remedy in relation to one person, Accessing Party,
+or entity, or the taking or omission of any action against that person,
+Accessing Party, or entity, does not affect the Website Operator’s rights or
+remedies in relation to any other person or entity.
+
+21. Open Justice, Publicity and Transparency
+
+21.1. All legal proceedings relating to any form of relief sought by the Website
+Operator, including but not limited to the applications for Injunctive Relief
+(Clause 14), Machine Readable Legal Restrictions (Clause 10), AI Model
+Disgorgement and Destruction Orders (Clause 19), and any other legal or
+equitable relief, may, in the Website Operators’ sole discretion, be conducted
+in open court.
+
+21.2. The Website Operator reserves the unrestricted and perpetual right, at its
+sole discretion, to disclose, publish, report, or otherwise publicise the
+existence, nature, claims, allegations, procedural status, and outcomes of any
+such proceedings, enforcement actions, or disputes arising under or in
+connection with this Contract.
+
+22. Governing Law & Jurisdiction
+
+22.1. This Contract shall be governed by the laws of England and Wales.
+
+22.2. By Accessing the Website and Website Content, including but not limited to
+any rendering or browsing of the Website in the UK, the Accessing Party
+irrevocably agrees to these contract terms and consents to submit to the
+exclusive jurisdiction of the Courts of England and Wales.
+
+22.3. Any dispute arising in connection with this Contract shall be subject to
+the jurisdiction of the courts of England and Wales unless otherwise required by
+applicable law.
+
+ANNEX A
+
+In accordance with Clause 1 of this Contract the definitions and interpretation
+are as set out in this Annex A.
+
+“Access” means the act of use or retrieval, request, interaction with, or
+connection to the Website or Website Content, including but not limited to: HTTP
+or HTTPS requests; page loads; API calls; automated queries; crawling, scraping,
+or indexing requests; and any other technical interaction resulting in the
+delivery or processing of the Website or Website Content by any means from any
+location, “Accessing” shall be construed accordingly.
+
+“Access Event” means any instance of Access to a Website. 
+
+“Accessing Party” or “Accessing Parties” means the person or entity Accessing
+the Website or Website Content, be they a Licenced User or Unlicenced User,
+including any natural person, corporate entity, Artificial Intelligence System
+and Crawler, whether acting directly or indirectly.
+
+“Accessibility” means Non-Commercial Use by a Non-Commercial User of various
+technological solutions, that may include Artificial Intelligence Systems, but
+is limited to the assistive action of enabling a person to Access the unaltered
+Website Content by means that they are able understand and interact with the
+Website Content in a way that preserves the Website Operator’s direct
+relationship with the user.
+
+“Artificial Intelligence System” means any computational system that uses
+machine learning or statistical training methods to learn generalisable patterns
+from data in order to generate predictions, classifications, recommendations, or
+synthetic content. This includes but is not limited to: (a) any developing
+computational technology; (b) any amended types, extension or update of such
+computational system; and (c) any identified technology arising under any
+applicable treaty provisions or directives, as may be amended from time to time.
+
+“Crawler” means any automated process including bots, Crawlers, spiders,
+scraping tools, indexing agents, Artificial Intelligence System agents,
+automated scripts, or software designed to Access, interact with, and ingest
+digital resources with or without direct human interaction. For the avoidance of
+doubt, the term includes but is not limited to Search Engine Crawlers, automated
+agents used for scraping, Dataset construction, Artificial Intelligence System
+training, competitive intelligence gathering, or bulk content harvesting.
+
+“Dataset” means any organised or unorganised collection of data or content,
+including associated metadata, labels, annotations, or documentation, that is
+stored, curated, or maintained in a manner enabling its use for training,
+testing, validation, benchmarking, operation, or improvement of computational,
+Crawler, Artificial Intelligence Systems, or other such technologies.
+
+“Derivative Dataset” means any Dataset derived, or including content directly,
+or indirectly from Website Content.
+
+“Embeddings” means numerical vector representations derived from text, images,
+audio, or other digital materials.
+
+“Foundation Model” means an Artificial Intelligence System model trained on
+large Datasets capable of supporting multiple downstream applications.
+
+“Google” means any and all person(s), third party, subsidiary, joint venture,
+company, trust, foundation, partnership, controlled person, or legal entity
+connected with Google LLC (3582691) and Alphabet Inc.
+
+“Intellectual Property Rights” or “IPR” means all intellectual property rights
+and analogous proprietary rights anywhere in the world, whether registered,
+unregistered, registrable, or otherwise protected, including:
+
+(a)patents, patent registrations and patent applications; rights in inventions
+and discoveries, whether or not a patent application has been filed or a patent
+granted; (b)copyright, including registrations and applications, in works of
+authorship whether published or unpublished, including software, source code,
+object code, and documentation; (c)trade marks whether registered or
+unregistered, service marks, trade names, rights in get-up and trade dress,
+domain names and equivalent online identifiers, business names, logos, slogans
+and other designations used to distinguish goods or services, together with all
+goodwill associated with them; the right to sue for passing off or unfair
+competition; (d)registered and unregistered design rights; (e)database rights,
+including sui generis rights in databases, data compilations, and structured
+data collections; (f)rights to use and protect the confidentiality of
+confidential information, including know-how, trade secrets, proprietary
+technology, technical ideas and improvements (whether or not patentable),
+processes, business methods, and other information deriving value from not being
+publicly known; (g)moral rights, including rights of attribution and rights of
+integrity, to the extent recognised and subsisting under applicable law; (h)all
+applications for, and rights to apply for, register, renew, extend, restore, or
+claim priority from, any of the rights referred to above; and (i)all other
+rights of a similar or equivalent nature or having equivalent effect, whether
+now existing or arising in the future in any jurisdiction.
+
+“Licensed Access” means an Access Event that Accesses, interacts with, and
+ingests the Website or Website Content in respect of which the Website Operator
+has waived the Access Fee strictly in accordance with Clause 4 for avoidance of
+doubt this includes: (a) Non-Commercial Use; and (b) Search Indexing.
+
+“Licensed User” means the natural person, corporate entity (including any
+relevant operator, developer, owner, controller, or other responsible party)
+directing any Artificial Intelligence System, Crawler, or any identified
+technology arising under any applicable treaty provisions or directives, as may
+be amended from time to time, undertaking the Search Indexing.
+
+“Non-Commercial Use” means the Access, interaction with, and ingestion of the
+Website or Website Content by a Non-Commercial User for personal, non-commercial
+use, for clarity this also includes use of assistive technologies for
+Accessibility use. For the avoidance of doubt, this does not include free or
+bundled software or any other technology that features Artificial Intelligence
+Systems summaries or other functionality.
+
+“Non-Commercial User” means the individual, company and programs using the
+Website Content for a legitimate non-commercial use, including for personal, or
+Accessibility purposes. This lies alongside the Website Terms and Conditions (or
+any other terms under which the Website’s service is made available).
+
+“Permitted Crawling Activity” means limited automated retrieval of publicly
+Accessible Website Content by a Search Engine Crawler solely for discovery,
+display and navigation for the purpose of Search Indexing, only where such
+activity complies fully with the Contract, and qualifies for the conditional
+waiver of the Access Fee under Clause 4.
+
+“Product” means a product made available by the Website Operator, or otherwise
+published and distributed by the Website Operator, including but not limited to:
+(a) a written work;
+(b) a video;
+(c) an image or photographic work;
+(d) an audio work; or 
+(e) any other content, including Website Content.
+
+"Search" means the operation of a publicly accessible Search service that
+enables Non-Commercial Users to locate online resources made available by
+websites for that purpose, by generating results consisting primarily of
+unaltered links, titles, and limited unaltered original Website Content excerpts
+that direct Non-Commercial Users to the original source location of the
+referenced content.
+
+“Search Engine Crawler” means a Crawler whose primary function is to discover,
+retrieve, and temporarily store publicly accessible Website Content for the sole
+purpose of enabling Search Indexing and the presentation of Search results that
+direct Non-Commercial Users to the original source location of Website Content.
+For the avoidance of doubt, Search Engine Crawlers engaging solely in Permitted
+Crawling Activity shall not be treated as Unlicensed Use.
+
+“Search Index” or “Search Indexing” means the means the retrieval and processing
+of publicly accessible Website Content by a Search Engine Crawler as part of
+Permitted Crawling Activity, to create and maintain a searchable index used to
+generate ranking, and the presentation of results in Search that directs
+Non-Commercial Users to the Website and the Website Content. This includes
+internal technical processing of retrieved Website Content to enable indexing,
+ranking, deduplication, spam detection, or Search result presentation. When
+Search Indexing, the Accessing Party must not alter the Website Content, this
+includes but is not limited to creating new titles, regenerating content or
+generating summaries of the Website Content, and must instead present the
+Website Content in its original unaltered form.
+
+“Unlicensed Access” means any Access Event in respect to which the Access Fee is
+payable; or any circumstances where the waiver of the Access Fee conditions are
+not satisfied, or are breached which include but is not limited to: Access to,
+retrieval of, interaction with, or use of the Website or Website Content that
+falls outside the scope of Licensed Access or that breaches any technical
+restriction, contractual limitation, or legal right reserved under this
+Contract. For the avoidance of doubt, Unlicensed Access includes but is not
+limited to: harvest, extract, download, reproduce, duplicate, copy, sell,
+tokenize, annotate, label, resell, store, analyse, automatically extract data
+for competitive analysis, or collect personal data, bulk data harvest, or
+otherwise exploit the Website or Website Content for any commercial purpose.
+
+“Unlicenced User” means the individual, company (including any relevant
+operator, developer, owner, controller, or other responsible party) directing
+any Artificial Intelligence System, Crawler or any identified technology arising
+under any applicable treaty provisions or directives, as may be amended from
+time to time, undertaking the Unlicensed Access, or ingesting information from
+use Unlicensed Access
+
+“Website” means the site, according to the URL, domain address, IP or associated
+links and site operated by the Website Operator which this Contract is appended
+to and made available for notification and communication.
+
+“Website Content” means all IPR materials and text, images, audio-visual
+material, structured data, metadata, layout elements, compilations, including
+any: data, structure, arrangement, metadata, or underlying informational value
+capable of extraction, whether or not directly visible to end users and any
+other associated information.
+
+“Website Terms and Conditions” means the terms which governs the Access to, and
+use of the Website as set by the Website Operator.
+
+“Website Operator” means the company, entity, organisation, or person
+responsible for operating and controlling the Website.
+
+Interpretation
+
+1. References to clauses and Annex are to the clauses of and Annex to this
+   Contract.
+
+2. Unless the context otherwise requires, words in the singular shall include
+   the plural and the plural shall include the singular.
+
+3. The body of the Contract and its Annexes form the agreement, and shall have
+   effect as if set out in full in the body of this Contract. Any reference to
+   this Contract includes Annex A.
+
+4. This Contract shall be binding on and ensure to the benefit of, the parties
+   to this Contract including the Website Operator, and their respective
+   successors, personal representatives and permitted assigns, and references to
+   a party shall include that party's successors, personal representatives and
+   permitted assigns.
+
+5. A person includes a natural person, corporate or unincorporated body (whether
+   or not having separate legal personality) and that person's personal
+   representatives, successors and permitted assigns.
+
+6. Reference to connect, connected or connection includes formal relationships,
+   any link between the referenced parts, including indirect or loose
+   associations, affiliation, control shared decision makers, contractual
+   relationships, or common business interests.
+
+7. A reference to a Website Operator, entity or company includes any company,
+   corporation or other body corporate, wherever and however incorporated or
+   established. A reference to a holding company or a subsidiary means a holding
+   company or a subsidiary (as the case may be) as defined in section 1159 of
+   the CA 2006 and a company shall be treated, for the purposes only of the
+   membership requirement contained in sections 1159(1)(b) and (c), as a member
+   of another company even if its shares in that other company are registered in
+   the name of another person (or its nominee).
+
+8. Unless expressly provided otherwise in this agreement, a reference to writing
+   or written excludes fax but not email.
+
+9. Any words following the terms including, include, in particular, for example
+   or any similar expression shall be interpreted as illustrative and shall not
+   limit the sense of the words preceding those terms.
+
+10. References to the Contract or a document in agreed form are to that document
+    in the form agreed by the parties by notice and action.
+
+11. Unless expressly provided otherwise in this agreement, a reference to
+    legislation or a legislative provision:
+
+a. is a reference to it as amended, extended or re-enacted from time to time
+provided that, as between the parties, no such agreement, Contract or amendment,
+extension or re-enactment made after the date of this Contract formation shall
+apply for the purposes of this Contract to the extent that it would impose any
+new or extended obligation, liability or restriction on, or otherwise adversely
+affect the rights of, any party;
+
+b. include all subordinate legislation made from time to time under that
+legislation or legislative provision.
+
+***
+
+Copyright © 2026 Preiskel & Co LLP. All rights reserved.
+
+This document may be copied, distributed, and transmitted in any medium or
+format, provided that it is reproduced in full, remains unaltered, and is
+accompanied by this copyright notice.
+
+No part of this document may be modified, adapted, or amended without the prior
+written permission of Preiskel & Co LLP.
