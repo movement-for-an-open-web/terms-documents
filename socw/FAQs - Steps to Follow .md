@@ -269,52 +269,38 @@ should insert the wording at (A) below into your website terms to formally
 incorporate the Contract terms, and the wording at (B) below to set the amount
 of your Access Fee.
 
-**(A) Mandatory wording – adoption of the Contract**
+**Mandatory wording for your Website T&Cs!**
 
 **Insert the following text in the relevant place in your website terms and
 conditions**
 
-[*Clause #1 – insert relevant clause number in line with your website terms and
-conditions*] These [*terms of service\* use the name of the legal terms you
-offer on our website*] refer to and incorporate the following additional terms,
-which also apply to your use of our [*site\* - use the same term you use on your
-terms for your website*]:
-
-[Clause 1.1] Our Search Only Terms Contract: for Access and Use of Website
+**[Clause 1.1]** Our Search Only Terms Contract: for Access and Use of Website
 (available at the version-controlled URL published by MOW, currently being the
 following link: <https://m4ow.uk/socw/3.txt>) governs access to the Website and
 its content.
 
-[Clause 1.2] If there is an inconsistency between any of the provisions of these
+**[Clause 1.2]** If there is an inconsistency between any of the provisions of these
 [Terms and Conditions] and the provisions of [Search Only Terms Contract: for
 Access and Use of Website as linked above], the provisions of the Search Only
 Terms Contract: for Access and Use of Website, the version hosted at the
 referenced MOW URL shall prevail.
 
-**(B) Mandatory wording – setting your Access Fee**
-
-*(The Contract does not set a default Access Fee. You must decide the amount of
-your Access Fee and insert the following text in your website terms and
-conditions, immediately after the wording at (A) above. See “What amount should
-the Access Fee be?” below for guidance on setting the amount.)*
-
-**Insert the following text in your website terms and
-conditions:**
-
-*[We provide below two different examples of Clause 1.3, the first providing for
-a uniform Access Fee per Product, the second providing some differentiation in
+_NB: 2 options for Clause 1.3 for your Access Fee price - first option provides for
+a uniform Access Fee per Product, the second provides some differentiation in
 the Fee per type of product. In the second case, the types of product we have
 provided are illustrative, though you can, of course, further differentiate at
 your own discretion. Clause 1.4 is to be inserted regardless of the version of
-Clause 1.3 which is chosen.]*
+Clause 1.3 which is chosen - see guidance below for further details on the Access Fee.*_
 
-[Clause 1.3] For the purposes of Clause 4.3 of the Search Only Terms Contract:
+**[Clause 1.3]** For the purposes of Clause 4.3 of the Search Only Terms Contract:
 for Access and Use of Website, the Access Fee payable in respect of each Product
 accessed as a result of an Access Event that is Unlicenced Access is [£● (●
 pounds sterling)] exclusive of VAT, which shall be payable in addition where
 applicable.
 
-[[Clause 1.3] For the purposes of Clause 4.3 of the Search Only Terms Contract:
+OR
+
+**[Clause 1.3]** For the purposes of Clause 4.3 of the Search Only Terms Contract:
 for Access and Use of Website, the Access Fee payable in respect of each Product
 accessed as a result of an Access Event that is Unlicensed Access is: (a) for
 each written work, £[●]; (b) for each image or photographic work, £[●]; (c) for
@@ -322,7 +308,7 @@ each video, £[●]; (d) for each audio work, £[●]; and (e) for any other Pro
 £[●], in each case exclusive of VAT, which shall be payable in addition where
 applicable.
 
-[Clause 1.4] The Access Fee is a contractual debt which becomes immediately due
+**[Clause 1.4]** The Access Fee is a contractual debt which becomes immediately due
 and payable in accordance with Clause 4 of the Search Only Terms Contract: for
 Access and Use of Website. Capitalised terms used in [Clauses 1.3 and 1.4] and
 not otherwise defined in these [Terms and Conditions] have the meanings given to
